@@ -48,7 +48,7 @@ export function Header({ progress, compact, activeSection }: HeaderProps) {
         <a href="#topo" style={{ display: "flex", alignItems: "center", lineHeight: 0 }}>
           <img
             src="/images/logo.png"
-            alt="Giselle Anjos — Home Designer"
+            alt="Giselle Anjos — Designer de Interiores"
             className="header-logo"
             style={{ height: compact ? 40 : 54, width: "auto", transition: "height 0.4s ease" }}
           />
